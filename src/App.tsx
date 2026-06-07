@@ -268,12 +268,12 @@ function App() {
             <div className="flex items-center gap-2 group cursor-pointer flex-shrink-0">
               <img
                 src="/gallery/barbershoplogo.png"
-                alt="Top Level Barbershop"
+                alt="Professional Razor Barbershop"
                 className="h-9 w-9 md:h-11 md:w-auto object-contain rounded-full transition-transform group-hover:scale-105 drop-shadow"
                 onError={(e) => { (e.target as HTMLImageElement).style.display = 'none'; }}
               />
               <span className="text-white font-bold text-sm md:text-base tracking-wide whitespace-nowrap hidden sm:block">
-                Top Level Barbershop
+                Professional Razor Barbershop
               </span>
             </div>
             <div className="hidden lg:flex gap-10 items-center font-semibold text-sm tracking-wider uppercase text-zinc-200">
@@ -548,7 +548,7 @@ function App() {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="grid grid-cols-1 md:grid-cols-3 gap-12 mb-12">
               <div>
-                <h3 className="text-white font-bold text-xl mb-4">Top Level Barbershop</h3>
+                <h3 className="text-white font-bold text-xl mb-4">Professional Razor Barbershop</h3>
                 <p className="leading-relaxed">{t('Tagline')}</p>
               </div>
               <div>
