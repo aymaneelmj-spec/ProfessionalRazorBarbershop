@@ -463,7 +463,7 @@ function App() {
               </a>
               
               <a 
-                href="https://www.google.com/maps/place/%D8%AD%D9%84%D8%A7%D9%82+%D8%A7%D9%84%D8%A3%D9%8A%D8%AF%D9%8A+%D8%A7%D9%84%D8%B1%D9%82%D9%8A%D9%82%D8%A9+Barbershop%E2%80%AD/@24.6732776,46.7181856,16.5z/data=!4m11!1m3!2m2!1sbarbershops+near+Saudi+Arabia!6e1!3m6!1s0x3e2f05a71b256ef7:0xdbd8555bb0fb09ba!8m2!3d24.6707546!4d46.731436!15sCh1iYXJiZXJzaG9wcyBuZWFyIFNhdWRpIEFyYWJpYVofIh1iYXJiZXJzaG9wcyBuZWFyIHNhdWRpIGFyYWJpYZIBC2JhcmJlcl9zaG9wmgFEQ2k5RFFVbFJRVU52WkVOb2RIbGpSamx2VDI1a00xUllaRk5PVkU0eVlXMDBkMlZVVmpWWFIxRjVZV3hPU2xKdFl4QULgAQD6AQQIUBBK!16s%2Fg%2F11h1mk4sz1?entry=ttu&g_ep=EgoyMDI2MDYwMi4wIKXMDSoASAFQAw%3D%3D"
+                href="https://www.google.com/maps/place/%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%81+%D8%B4%D9%81%D8%B1%D8%A9+%D9%84%D9%84%D8%AD%D9%84%D8%A7%D9%82%D8%A9+%D8%A7%D9%84%D8%B1%D8%AC%D8%A7%D9%84%D9%8A%D9%87%E2%80%AD/@24.7558793,46.6976635,15z/data=!4m11!1m3!2m2!1sbarbershops+near+Saudi+Arabia!6e1!3m6!1s0x3e2efd1f92813985:0x5cf0fb38f8c605e1!8m2!3d24.7558793!4d46.6976635!15sCh1iYXJiZXJzaG9wcyBuZWFyIFNhdWRpIEFyYWJpYVofIh1iYXJiZXJzaG9wcyBuZWFyIHNhdWRpIGFyYWJpYZIBC2JhcmJlcl9zaG9wmgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVVJxTkV0bE4yZFJSUkFC4AEA-gEECAAQJw!16s%2Fg%2F11stqx6b0v?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-zinc-800/80 backdrop-blur-md hover:bg-zinc-700 text-white border border-zinc-600 font-bold py-3.5 px-8 rounded-full shadow-xl transition-all flex items-center justify-center gap-3 w-full md:w-auto hover:-translate-y-1 text-sm md:text-base"
