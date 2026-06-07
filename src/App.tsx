@@ -453,7 +453,7 @@ function App() {
               </button>
 
               <a 
-                href={`https://wa.me/966544420003?text=${encodeURIComponent(isRTL ? "السلام عليكم، أريد الحجز" : "Hello, I would like to book an appointment")}`}
+                href={`https://wa.me/966509860820?text=${encodeURIComponent(isRTL ? "السلام عليكم، أريد الحجز" : "Hello, I would like to book an appointment")}`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="relative text-white font-bold py-3.5 px-8 rounded-full transition-all flex items-center justify-center gap-3 w-full md:w-auto hover:-translate-y-1 whatsapp-glow-btn text-sm md:text-base"
@@ -556,7 +556,7 @@ function App() {
                 <div className="space-y-4">
                   <p className="flex items-start">
                     <MapPin className={`w-5 h-5 shrink-0 ${isRTL ? 'ml-3' : 'mr-3'} text-amber-500 mt-1`} /> 
-                    <a href="https://www.google.com/maps/place/Top+Level+barber+shop/@24.709319,46.662467,17z/data=!4m10!1m2!2m1!1sPM57+PW9,+Ar+Rahmaniyyah,+Riyadh+12341,+Saudi+Arabia!3m6!1s0x3e2f1d0cba904a51:0xa142a6ecb83c8da4!8m2!3d24.7092948!4d46.6649363!15sCjRQTTU3IFBXOSwgQXIgUmFobWFuaXl5YWgsIFJpeWFkaCAxMjM0MSwgU2F1ZGkgQXJhYmlhWjMiMXBtNTcgcHc5IGFyIHJhaG1hbml5eWFoIHJpeWFkaCAxMjM0MSBzYXVkaSBhcmFiaWGSAQtiYXJiZXJfc2hvcJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VSaWFITmZjMHBuRUFF4AEA-gEECHcQEg!16s%2Fg%2F11trn7wgkt?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D" target="_blank" rel="noopener noreferrer" className="leading-tight hover:text-amber-500 transition-colors">
+                    <a href="https://www.google.com/maps/place/%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%81+%D8%B4%D9%81%D8%B1%D8%A9+%D9%84%D9%84%D8%AD%D9%84%D8%A7%D9%82%D8%A9+%D8%A7%D9%84%D8%B1%D8%AC%D8%A7%D9%84%D9%8A%D9%87%E2%80%AD/@24.7558793,46.6976635,15z/data=!4m11!1m3!2m2!1sbarbershops+near+Saudi+Arabia!6e1!3m6!1s0x3e2efd1f92813985:0x5cf0fb38f8c605e1!8m2!3d24.7558793!4d46.6976635!15sCh1iYXJiZXJzaG9wcyBuZWFyIFNhdWRpIEFyYWJpYVofIh1iYXJiZXJzaG9wcyBuZWFyIHNhdWRpIGFyYWJpYZIBC2JhcmJlcl9zaG9wmgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVVJxTkV0bE4yZFJSUkFC4AEA-gEECAAQJw!16s%2Fg%2F11stqx6b0v?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D" target="_blank" rel="noopener noreferrer" className="leading-tight hover:text-amber-500 transition-colors">
                       {t('Address')}
                     </a>
                   </p>
